@@ -1,7 +1,8 @@
-package com.apolis.propertymangement
+package com.apolis.propertymangement.Activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.apolis.propertymangement.R
 
 class ChoiceScreenActivity : AppCompatActivity() {
 
