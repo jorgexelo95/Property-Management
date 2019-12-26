@@ -1,4 +1,4 @@
-package com.apolis.propertymangement
+package com.apolis.propertymangement.Models
 
 data class Login(
     val msg: String,

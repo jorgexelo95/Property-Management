@@ -1,0 +1,21 @@
+
+n
+>app/src/main/java/com/apolis/propertymangement/Models/Login.kt,f\0\f05e0b76cd4d035fceba895b764b693faba44545
+y
+Iapp/src/main/java/com/apolis/propertymangement/Activities/MainActivity.kt,1\2\1249acff975f98472517eb26e8f8c26a797f88dc
+l
+<app/src/main/java/com/apolis/propertymangement/APIService.kt,d\1\d1a5c0e81d0979480442681536add1e7d0827284
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+
+Qapp/src/main/java/com/apolis/propertymangement/Activities/SplashScreenActivity.kt,5\a\5afd1ffe0e9fc914e8bb07b02fdc651ab8587f96
+k
+;app/src/main/java/com/apolis/propertymangement/Endpoints.kt,a\e\ae10f6935d26169840fafd5430d7f58764bb96a9
+…
+Uapp/src/main/java/com/apolis/propertymangement/Activities/RegisterLandlordActivity.kt,7\d\7d2cab4dbc2782cf1b7bd42d32bca6f66a3bbddd
+ƒ
+Sapp/src/main/java/com/apolis/propertymangement/Activities/RegisterTenantActivity.kt,d\5\d5efa70f0cbe06ebee4d9d39e4947376b898ad15
+‡
+Wapp/src/main/java/com/apolis/propertymangement/Activities/ChoiceRegistrationActivity.kt,6\f\6fa6d9e92008f8dd5f7693134d1c0f9c7023986b
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e

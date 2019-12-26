@@ -10,16 +10,20 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".Activities.SplashScreenActivity"></activity>
-        <activity android:name=".Activities.ChoiceScreenActivity"></activity>
-        <activity android:name=".Activities.MainActivity">
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".Activities.RegisterTenantActivity"></activity>
+        <activity android:name=".Activities.RegisterLandlordActivity"></activity>
+        <activity android:name=".Activities.ChoiceRegistrationActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Activities.SplashScreenActivity" />
+        <activity android:name=".Activities.ChoiceScreenActivity" />
+        <activity android:name=".Activities.MainActivity" />
     </application>
 
 </manifest>
