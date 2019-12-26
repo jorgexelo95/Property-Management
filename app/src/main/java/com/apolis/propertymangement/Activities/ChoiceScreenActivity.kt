@@ -18,5 +18,8 @@ class ChoiceScreenActivity : AppCompatActivity() {
         button_sign_up.setOnClickListener {
             startActivity(Intent(applicationContext, ChoiceRegistrationActivity::class.java))
         }
+        button_login.setOnClickListener {
+            startActivity(Intent(applicationContext, LoginActivity::class.java))
+        }
     }
 }

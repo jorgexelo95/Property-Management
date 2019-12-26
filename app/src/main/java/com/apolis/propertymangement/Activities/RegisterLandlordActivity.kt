@@ -4,8 +4,8 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.apolis.propertymangement.APIService
-import com.apolis.propertymangement.Endpoints
+import com.apolis.propertymangement.Network.APIService
+import com.apolis.propertymangement.Network.Endpoints
 import com.apolis.propertymangement.R
 import kotlinx.android.synthetic.main.activity_register_landlord.*
 import retrofit2.Call
