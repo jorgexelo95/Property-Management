@@ -42,5 +42,28 @@
         android:layout_height="wrap_content"
         android:text="Sign in with Google" />
 
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="Forget password?"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/colorBlack"
+            android:text="Click Here"
+            android:id="@+id/text_view_click_here"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+
+
 
 </LinearLayout>
