@@ -25,7 +25,14 @@ class LoginActivity : AppCompatActivity() {
     private fun init() {
 
         getLogin()
+        getPassword()
 
+    }
+
+    private fun getPassword() {
+        text_view_click_here.setOnClickListener {
+            startActivity(Intent(applicationContext, ForgetPasswordActivity::class.java))
+        }
     }
 
     private fun getLogin() {
