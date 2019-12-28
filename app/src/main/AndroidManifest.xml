@@ -12,8 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".Activities.ForgetPasswordActivity"></activity>
-        <activity android:name=".Activities.ResetPasswordActivity" />
+        <activity android:name=".Activities.PropertyAddActivity"></activity>
+        <activity android:name=".Activities.ListPropertiesActivity" />
+        <activity android:name=".Activities.ForgetPasswordActivity" />
         <activity android:name=".Activities.LoginActivity" />
         <activity android:name=".Activities.RegisterTenantActivity" />
         <activity android:name=".Activities.RegisterLandlordActivity" />

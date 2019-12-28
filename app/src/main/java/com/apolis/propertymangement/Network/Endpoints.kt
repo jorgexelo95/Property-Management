@@ -3,7 +3,7 @@ package com.apolis.propertymangement.Network
 import com.apolis.propertymangement.Models.ForgetPassword
 import com.apolis.propertymangement.Models.Login
 import com.apolis.propertymangement.Models.Msg
-import com.apolis.propertymangement.Models.PropertyArray
+import com.apolis.propertymangement.Models.ListProperty
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.POST
@@ -50,7 +50,7 @@ interface Endpoints {
     fun getProperties(
         @Query("userid") userid: String,
         @Query("usertype") usertype: String
-    ): Call<PropertyArray>
+    ): Call<ListProperty>
 
     @GET("remove-property.php?")
     fun deleteProperty(

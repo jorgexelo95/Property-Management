@@ -1,21 +1,37 @@
 
 n
->app/src/main/java/com/apolis/propertymangement/Models/Login.kt,f/0/f05e0b76cd4d035fceba895b764b693faba44545
+>app/src/main/java/com/apolis/propertymangement/Models/Login.kt,f\0\f05e0b76cd4d035fceba895b764b693faba44545
 y
-Iapp/src/main/java/com/apolis/propertymangement/Activities/MainActivity.kt,1/2/1249acff975f98472517eb26e8f8c26a797f88dc
+Iapp/src/main/java/com/apolis/propertymangement/Activities/MainActivity.kt,1\2\1249acff975f98472517eb26e8f8c26a797f88dc
 @
-app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 Å
-Qapp/src/main/java/com/apolis/propertymangement/Activities/SplashScreenActivity.kt,5/a/5afd1ffe0e9fc914e8bb07b02fdc651ab8587f96
+Qapp/src/main/java/com/apolis/propertymangement/Activities/SplashScreenActivity.kt,5\a\5afd1ffe0e9fc914e8bb07b02fdc651ab8587f96
 Ö
-Uapp/src/main/java/com/apolis/propertymangement/Activities/RegisterLandlordActivity.kt,7/d/7d2cab4dbc2782cf1b7bd42d32bca6f66a3bbddd
+Uapp/src/main/java/com/apolis/propertymangement/Activities/RegisterLandlordActivity.kt,7\d\7d2cab4dbc2782cf1b7bd42d32bca6f66a3bbddd
 É
 Sapp/src/main/java/com/apolis/propertymangement/Activities/RegisterTenantActivity.kt,d/5/d5efa70f0cbe06ebee4d9d39e4947376b898ad15
 á
 Wapp/src/main/java/com/apolis/propertymangement/Activities/ChoiceRegistrationActivity.kt,6/f/6fa6d9e92008f8dd5f7693134d1c0f9c7023986b
 P
- app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 Å
 Qapp/src/main/java/com/apolis/propertymangement/Activities/ChoiceScreenActivity.kt,b/e/be06e861c57a6848599f1eb73c1a0637eba5563d
 s
-Capp/src/main/java/com/apolis/propertymangement/Network/Endpoints.kt,4/e/4e48d1373cc14ee08cbf238b1f85e7dc3b2cf72f
+Capp/src/main/java/com/apolis/propertymangement/Network/Endpoints.kt,4\e\4e48d1373cc14ee08cbf238b1f85e7dc3b2cf72f
+t
+Dapp/src/main/java/com/apolis/propertymangement/Network/APIService.kt,f\5\f52d31ca0a3b2e620466071e887b60d101295d50
+s
+Capp/src/main/java/com/apolis/propertymangement/Models/Properties.kt,5\0\5065cae8630297d7f4b6041911af355014590026
+l
+<app/src/main/java/com/apolis/propertymangement/Models/Msg.kt,9\5\9587f8e2fc95a13d4ab6c1ad01f2798deefe27d2
+z
+Japp/src/main/java/com/apolis/propertymangement/Activities/LoginActivity.kt,5\4\548d9036b2adc6a2cf4cccb2cec045b4c529bd9d
+u
+Eapp/src/main/java/com/apolis/propertymangement/Models/ListProperty.kt,8\c\8c32ea734b27c74c5dc1da952121391f73fdf096
+Ä
+Papp/src/main/java/com/apolis/propertymangement/Activities/PropertyAddActivity.kt,9\f\9f2136e262d4948bb62ee536df6ffc54219bd83b
+u
+Eapp/src/main/java/com/apolis/propertymangement/ListPropertyAdapter.kt,0\1\0165bee6bea282489156af1dde2195383ea56156
+É
+Sapp/src/main/java/com/apolis/propertymangement/Activities/ListPropertiesActivity.kt,c\e\ce2986df6276a77df261024e8a07d03e7b79205d

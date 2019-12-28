@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edit_text_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter address" />
+
+    <EditText
+        android:id="@+id/edit_text_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter city" />
+
+    <EditText
+        android:id="@+id/edit_text_state"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter state" />
+
+    <EditText
+        android:id="@+id/edit_text_country"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter country" />
+
+    <EditText
+        android:id="@+id/edit_text_pro_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter pro status" />
+
+    <EditText
+        android:id="@+id/edit_text_purchase_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter purchase price" />
+
+    <EditText
+        android:id="@+id/edit_text_mortgage_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter mortgage info" />
+
+    <EditText
+        android:id="@+id/edit_text_latitude"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter latitude" />
+
+    <EditText
+        android:id="@+id/edit_text_longitude"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter longitude" />
+
+    <Button
+        android:id="@+id/button_add_property"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Property" />
+
+</LinearLayout>
