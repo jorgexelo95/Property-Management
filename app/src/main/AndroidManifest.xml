@@ -13,7 +13,6 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
         <activity android:name=".Activities.ForgetPasswordActivity"></activity>
-        <activity android:name=".Activities.ResetPasswordActivity" />
         <activity android:name=".Activities.LoginActivity" />
         <activity android:name=".Activities.RegisterTenantActivity" />
         <activity android:name=".Activities.RegisterLandlordActivity" />
@@ -25,7 +24,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activities.ChoiceScreenActivity" />
+        <activity android:name=".Activities.ChoiceScreenActivity" />git v
         <activity android:name=".Activities.MainActivity" />
     </application>
 

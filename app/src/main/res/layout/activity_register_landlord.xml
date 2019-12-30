@@ -2,6 +2,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/colorBlue"
     android:padding="20dp">
 
 
@@ -9,12 +10,14 @@
         android:id="@+id/edit_text_register_landlord_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/colorWhite"
         android:hint="Enter your email" />
 
     <EditText
         android:id="@+id/edit_text_register_landlord_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/colorWhite"
         android:hint="Enter a password" />
 
     <Button
